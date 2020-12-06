@@ -3,7 +3,7 @@ import {
 	DataTextureLoader,
 	TextureDataType,
 	PixelFormat
-} from '../../../src/Three';
+} from '../../src/Three';
 
 export interface RGBE {
 	width: number;
